@@ -1,9 +1,9 @@
 {
   "name": "sails-i18n-example",
-  "private": true,
-  "version": "0.0.0",
-  "description": "a Sails application",
-  "keywords": [],
+  "private": false,
+  "version": "0.0.1",
+  "description": "A simple Sails application that demonstrates that i18n is not properly supported.",
+  "keywords": ["i18n", "sails.js", "demonstration", "bug"],
   "dependencies": {
     "sails": "~0.10.0-rc8",
     "sails-disk": "~0.10.1",
@@ -35,5 +35,5 @@
     "url": "git://github.com/davesag/sails-i18n-example.git"
   },
   "author": "davesag",
-  "license": ""
+  "license": "MIT"
 }
