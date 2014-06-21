@@ -1,4 +1,3 @@
-sails-i18n-example
-==================
+# sails-i18n-example
 
-A simple example of objectNotation not working in Sails.js
+a [Sails](http://sailsjs.org) application
